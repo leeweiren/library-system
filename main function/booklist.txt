@@ -1,0 +1,6 @@
+book_id,book_name,book_author,,book_no,book_price
+A01,The Rival,Chariotte Duckworth,10,RM36.72
+A02,The Everything Guide to Investing in Cryptocurrency: From Bitcoin to Ripple, the Safe and Secure Way to Buy, Trade, and Mine Digital Currencies,DEROUSSEAU, RYAN,5,RM71.92
+A03,A Notable Woman: The Romantic Journals Of Jean Lucey Pratt,Garfield, Simon,4,RM87.90
+A04,The Journals of Sylvia Plath: 1950-1962,Plath, Sylvia,6,RM116.00
+A05,Winning The Games of Stocks!,Adam Khoo,7,RM39.92S
